@@ -1,0 +1,82 @@
+2. Create sampled “nights” for testing
+
+    Decide how many Monte-Carlo nights you want (about 300–500 is plenty).
+
+    For each night:
+
+        Jitter every player’s projection a little up or down.
+
+        Jitter the ownership numbers a bit too.
+
+        Draw a random fantasy score for every player from the tweaked projection and spread.
+
+        Build a fake public field of roughly a thousand line-ups that:
+
+        obey the 9-man roster and salary cap,
+
+        match the ownership percentages when you add them up,
+
+        use a quota-aware or penalised greedy sampler so studs don’t get swallowed early.
+
+        Keep the list of public line-ups and the player scores for that night.
+
+3. Seed a menu of high-quality line-ups
+
+    Loop about 200 times:
+
+        Run your single-line-up optimiser with the objective “projection plus ceiling minus chalk penalty.”
+
+        Force it to be at least two players different from every lineup you already found.
+
+        Store each new line-up.
+
+        You now have two hundred unique, optimiser-style line-ups.
+
+4. Run the column-generation loop to find the best 50
+
+    Master LP:
+
+        Let the solver assign fractional weights to the current menu so the average dollar profit across the sampled nights is as high as possible, while respecting any player exposure limits you set.
+
+        Read the dual (shadow) prices the LP produces.
+
+        Pricing step:
+
+        Using those dual prices, solve one new single-line-up problem that tries to beat the current portfolio after paying the “resource fees” implied by the duals.
+
+        If no new lineup can beat the fees, the menu is complete.
+
+        Otherwise add the new lineup to the menu and go back to the master LP.
+
+        Repeat until the pricing step can’t improve the portfolio.
+
+5. Lock in the final 50 line-ups
+
+    Flip the fractional weights to true zero-or-one choices and solve the tiny integer program once.
+
+    The result is exactly fifty line-ups, globally optimal for the sampled nights.
+
+6. Audit the portfolio
+
+    Run a much larger Monte-Carlo set (for example ten thousand nights) with the finished fifty line-ups and the public field model.
+
+    Record:
+
+        average profit per slate,
+
+        chance of a first-place finish,
+
+        worst-case drawdown,
+
+        how often your own line-ups tie each other.
+
+        7. Decide entry count and bankroll size
+        Use the audit stats with Kelly or a fixed-percentage rule to decide whether you want all fifty entries or fewer.
+
+        If the stats look poor, adjust the weights that control ceiling, chalk fade, exposure spread, and overlap penalty, then rebuild.
+
+8. Upload and late-swap
+
+    Submit the fifty line-ups.
+
+    If late news drops, update projections and ownership, rebuild the public field for the affected scenarios, rerun the column-generation loop (it converges quickly because most columns stay valid), and swap any changed line-ups before lock.

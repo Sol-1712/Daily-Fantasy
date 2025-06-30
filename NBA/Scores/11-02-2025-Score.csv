@@ -1,0 +1,163 @@
+Player ID,Position,Name,Team,Opponent,Salary,FPPG,Form,Playing Status,Score,Selected %,Exclude,Date
+7000855,C,Nikola Vucevic,Chicago Bulls,Detroit Pistons,16150,41.25,24,IN STARTING LINEUP,19.25,3,,11022025
+7000858,PF,Tobias Harris,Detroit Pistons,Chicago Bulls,12020,27.83,32,IN STARTING LINEUP,30.25,15,,11022025
+7000858,SF,Tobias Harris,Detroit Pistons,Chicago Bulls,12020,27.83,32,IN STARTING LINEUP,30.25,15,,11022025
+7000905,SF,Paul George,Philadelphia 76ers,Toronto Raptors,13090,34.15,26.08,IN STARTING LINEUP,24.75,19,,11022025
+7000905,SG,Paul George,Philadelphia 76ers,Toronto Raptors,13090,34.15,26.08,IN STARTING LINEUP,24.75,19,,11022025
+7000911,C,Joel Embiid,Philadelphia 76ers,Toronto Raptors,20310,45.6,50.75,IN STARTING LINEUP,52,10,,11022025
+7000978,SG,Garrett Temple,Toronto Raptors,Philadelphia 76ers,6000,3.21,3,,0,0,,11022025
+7000978,SF,Garrett Temple,Toronto Raptors,Philadelphia 76ers,6000,3.21,3,,0,0,,11022025
+7001000,C,Mason Plumlee,Phoenix Suns,Memphis Grizzlies,7310,16.63,15.08,,12,1,,11022025
+7001023,PF,James Johnson,Indiana Pacers,New York Knicks,6000,2.23,0.92,,0,0,,11022025
+7001030,PG,Dennis Schroder,Detroit Pistons,Chicago Bulls,10620,27.63,13.17,,12,0,,11022025
+7001049,SG,Tim Hardaway,Detroit Pistons,Chicago Bulls,7790,17.66,15.67,IN STARTING LINEUP,10.75,21,,11022025
+7001049,SF,Tim Hardaway,Detroit Pistons,Chicago Bulls,7790,17.66,15.67,IN STARTING LINEUP,10.75,21,,11022025
+7001117,C,Andre Drummond,Philadelphia 76ers,Toronto Raptors,7440,19.59,13.67,,0,0,,11022025
+7001210,PF,Kevin Durant,Phoenix Suns,Memphis Grizzlies,17120,45.1,42.58,,55.25,19,,11022025
+7001313,SF,Kelly Oubre,Philadelphia 76ers,Toronto Raptors,13380,29.48,30.58,IN STARTING LINEUP,30.25,7,,11022025
+7001313,PF,Kelly Oubre,Philadelphia 76ers,Toronto Raptors,13380,29.48,30.58,IN STARTING LINEUP,30.25,7,,11022025
+7001322,PG,T.J. McConnell,Indiana Pacers,New York Knicks,8410,22.01,16.58,,16.75,1,,11022025
+7001323,C,Jahlil Okafor,Indiana Pacers,New York Knicks,6000,2.75,2.75,,2.75,1,,11022025
+7001331,PG,Delon Wright,New York Knicks,Indiana Pacers,6000,9.54,7.25,,0,0,,11022025
+7001331,SG,Delon Wright,New York Knicks,Indiana Pacers,6000,9.54,7.25,,0,0,,11022025
+7001341,PG,Cameron Payne,New York Knicks,Indiana Pacers,6000,15.1,19.5,,25.75,4,,11022025
+7001353,SG,Devin Booker,Phoenix Suns,Memphis Grizzlies,18130,44.03,47.92,,32,9,,11022025
+7001366,PG,Tyus Jones,Phoenix Suns,Memphis Grizzlies,9990,25.6,35.5,,32.25,32,,11022025
+7001367,C,Karl-Anthony Towns,New York Knicks,Indiana Pacers,19580,50.73,51.58,IN STARTING LINEUP,70.5,6,,11022025
+7001409,PF,Pascal Siakam,Indiana Pacers,New York Knicks,16530,38.35,45.67,IN STARTING LINEUP,38.75,4,,11022025
+7001409,SF,Pascal Siakam,Indiana Pacers,New York Knicks,16530,38.35,45.67,IN STARTING LINEUP,38.75,4,,11022025
+7001410,C,Jakob Poeltl,Toronto Raptors,Philadelphia 76ers,13560,35.69,26.25,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,Y,11022025
+7001432,SG,Malik Beasley,Detroit Pistons,Chicago Bulls,10100,26.16,34.42,,32,11,,11022025
+7001432,SF,Malik Beasley,Detroit Pistons,Chicago Bulls,10100,26.16,34.42,,32,11,,11022025
+7001442,SF,Brandon Ingram,Toronto Raptors,Philadelphia 76ers,14890,39.19,31.58,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,Y,11022025
+7001442,PF,Brandon Ingram,Toronto Raptors,Philadelphia 76ers,14890,39.19,31.58,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,Y,11022025
+7001481,PG,Monte Morris,Phoenix Suns,Memphis Grizzlies,6000,10.14,6.33,,0,0,,11022025
+7001523,C,Thomas Bryant,Indiana Pacers,New York Knicks,8410,15.84,33.75,IN STARTING LINEUP,37.25,54,,11022025
+7001527,PG,Lonzo Ball,Chicago Bulls,Detroit Pistons,9100,20.88,19.5,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,Y,11022025
+7001528,PF,Chris Boucher,Toronto Raptors,Philadelphia 76ers,7330,19.11,13.92,,11,11,,11022025
+7001528,C,Chris Boucher,Toronto Raptors,Philadelphia 76ers,7330,19.11,13.92,,11,11,,11022025
+7001531,SF,Royce O'Neale,Phoenix Suns,Memphis Grizzlies,9620,22.66,25.08,,27.5,20,,11022025
+7001531,PF,Royce O'Neale,Phoenix Suns,Memphis Grizzlies,9620,22.66,25.08,,27.5,20,,11022025
+7001550,SF,Josh Hart,New York Knicks,Indiana Pacers,15070,39.56,41.42,IN STARTING LINEUP,54.5,25,,11022025
+7001550,PF,Josh Hart,New York Knicks,Indiana Pacers,15070,39.56,41.42,IN STARTING LINEUP,54.5,25,,11022025
+7001572,PF,Guerschon Yabusele,Philadelphia 76ers,Toronto Raptors,12030,23.88,25.08,,21,1,,11022025
+7001572,C,Guerschon Yabusele,Philadelphia 76ers,Toronto Raptors,12030,23.88,25.08,,21,1,,11022025
+7001589,C,Zach Collins,Chicago Bulls,Detroit Pistons,6000,11.8,8.25,,11.75,0,,11022025
+7001593,SG,Luke Kennard,Memphis Grizzlies,Phoenix Suns,7700,19.98,10.83,,9,2,,11022025
+7001593,PG,Luke Kennard,Memphis Grizzlies,Phoenix Suns,7700,19.98,10.83,,9,2,,11022025
+7001594,SF,OG Anunoby,New York Knicks,Indiana Pacers,13020,30.25,31.5,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,Y,11022025
+7001594,PF,OG Anunoby,New York Knicks,Indiana Pacers,13020,30.25,31.5,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,Y,11022025
+7022287,SG,Damion Lee,Phoenix Suns,Memphis Grizzlies,6000,6.05,7.58,,0,0,,11022025
+7022297,C,Jaren Jackson,Memphis Grizzlies,Phoenix Suns,15790,39.9,38.17,,30,34,,11022025
+7022297,PF,Jaren Jackson,Memphis Grizzlies,Phoenix Suns,15790,39.9,38.17,,30,34,,11022025
+7022300,SG,Kevin Huerter,Chicago Bulls,Detroit Pistons,6290,16.57,13.08,,17.75,12,,11022025
+7022300,SF,Kevin Huerter,Chicago Bulls,Detroit Pistons,6290,16.57,13.08,,17.75,12,,11022025
+7022307,PG,Jevon Carter,Chicago Bulls,Detroit Pistons,6000,7.13,12.75,,11.5,0,,11022025
+7022307,SG,Jevon Carter,Chicago Bulls,Detroit Pistons,6000,7.13,12.75,,11.5,0,,11022025
+7022328,SG,Grayson Allen,Phoenix Suns,Memphis Grizzlies,10310,21.74,27.42,,17.5,5,,11022025
+7022328,SF,Grayson Allen,Phoenix Suns,Memphis Grizzlies,10310,21.74,27.42,,17.5,5,,11022025
+7022332,PG,Jalen Brunson,New York Knicks,Indiana Pacers,18110,42.9,35.58,IN STARTING LINEUP,19.5,6,,11022025
+7022333,SG,Landry Shamet,New York Knicks,Indiana Pacers,6000,6.31,10,,18.75,0,,11022025
+7022335,SF,Mikal Bridges,New York Knicks,Indiana Pacers,11950,29.99,21.67,IN STARTING LINEUP,19.75,17,,11022025
+7022335,SG,Mikal Bridges,New York Knicks,Indiana Pacers,11950,29.99,21.67,IN STARTING LINEUP,19.75,17,,11022025
+7022506,PG,Coby White,Chicago Bulls,Detroit Pistons,12640,31.85,26.75,IN STARTING LINEUP,12.75,22,,11022025
+7022512,SG,Talen Horton-Tucker,Chicago Bulls,Detroit Pistons,6000,11.14,3.08,,6.5,0,,11022025
+7022512,SF,Talen Horton-Tucker,Chicago Bulls,Detroit Pistons,6000,11.14,3.08,,6.5,0,,11022025
+7022513,PF,Chuma Okeke,Philadelphia 76ers,Toronto Raptors,6000,1.25,1.25,,0,0,,11022025
+7022532,PG,Ja Morant,Memphis Grizzlies,Phoenix Suns,15090,39.87,41.08,,44.75,50,,11022025
+7022535,PF,Bol Bol,Phoenix Suns,Memphis Grizzlies,8620,11.66,39.17,,52.5,4,,11022025
+7022543,SG,RJ Barrett,Toronto Raptors,Philadelphia 76ers,15370,40.45,32.33,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,Y,11022025
+7022543,SF,RJ Barrett,Toronto Raptors,Philadelphia 76ers,15370,40.45,32.33,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,Y,11022025
+7022549,PF,Brandon Clarke,Memphis Grizzlies,Phoenix Suns,7440,18.31,22.58,,27.75,3,,11022025
+7022549,C,Brandon Clarke,Memphis Grizzlies,Phoenix Suns,7440,18.31,22.58,,27.75,3,,11022025
+7022571,SG,John Konchar,Memphis Grizzlies,Phoenix Suns,6000,10.71,4.25,,0,0,,11022025
+7022571,SF,John Konchar,Memphis Grizzlies,Phoenix Suns,6000,10.71,4.25,,0,0,,11022025
+7022676,SG,Desmond Bane,Memphis Grizzlies,Phoenix Suns,15110,36.68,39.33,,37.5,9,,11022025
+7022676,SF,Desmond Bane,Memphis Grizzlies,Phoenix Suns,15110,36.68,39.33,,37.5,9,,11022025
+7022677,SF,Aaron Nesmith,Indiana Pacers,New York Knicks,6370,15.6,11.83,IN STARTING LINEUP,6.5,27,,11022025
+7022677,SG,Aaron Nesmith,Indiana Pacers,New York Knicks,6370,15.6,11.83,IN STARTING LINEUP,6.5,27,,11022025
+7022679,PF,Patrick Williams,Chicago Bulls,Detroit Pistons,8410,20.36,12.5,,9.25,3,,11022025
+7022681,PG,Tyrese Maxey,Philadelphia 76ers,Toronto Raptors,20660,46.27,38.5,IN STARTING LINEUP,14.25,3,,11022025
+7022683,C,Paul Reed,Detroit Pistons,Chicago Bulls,6000,12.24,16.67,,17.5,0,,11022025
+7022686,PF,Obi Toppin,Indiana Pacers,New York Knicks,7390,19.4,21.17,,16.25,44,,11022025
+7022686,C,Obi Toppin,Indiana Pacers,New York Knicks,7390,19.4,21.17,,16.25,44,,11022025
+7022702,PF,Precious Achiuwa,New York Knicks,Indiana Pacers,10010,18.85,26.17,IN STARTING LINEUP,28.5,19,,11022025
+7022702,C,Precious Achiuwa,New York Knicks,Indiana Pacers,10010,18.85,26.17,IN STARTING LINEUP,28.5,19,,11022025
+7022703,PF,Jalen Smith,Chicago Bulls,Detroit Pistons,9100,19.09,18.92,,13.75,3,,11022025
+7022703,C,Jalen Smith,Chicago Bulls,Detroit Pistons,9100,19.09,18.92,,13.75,3,,11022025
+7022704,PG,Tyrese Haliburton,Indiana Pacers,New York Knicks,15730,39.91,38.67,IN STARTING LINEUP,33.25,19,,11022025
+7022707,PG,Tre Jones,Chicago Bulls,Detroit Pistons,6130,13.88,12.67,,16,7,,11022025
+7022713,C,Nick Richards,Phoenix Suns,Memphis Grizzlies,9620,23.38,23.25,,12.5,4,,11022025
+7022714,C,Isaiah Stewart,Detroit Pistons,Chicago Bulls,7210,18.4,19.25,,25.5,8,,11022025
+7022714,PF,Isaiah Stewart,Detroit Pistons,Chicago Bulls,7210,18.4,19.25,,25.5,8,,11022025
+7022717,PG,Immanuel Quickley,Toronto Raptors,Philadelphia 76ers,12990,28.87,31.58,IN STARTING LINEUP,34.75,23,,11022025
+7022805,PG,Miles McBride,New York Knicks,Indiana Pacers,7390,18.9,16.83,,21.75,21,,11022025
+7022805,SG,Miles McBride,New York Knicks,Indiana Pacers,7390,18.9,16.83,,21.75,21,,11022025
+7022807,SG,Quentin Grimes,Philadelphia 76ers,Toronto Raptors,9290,20.64,27.67,,32.25,37,,11022025
+7022807,SF,Quentin Grimes,Philadelphia 76ers,Toronto Raptors,9290,20.64,27.67,,32.25,37,,11022025
+7022808,SF,Scottie Barnes,Toronto Raptors,Philadelphia 76ers,18130,44.45,48.67,IN STARTING LINEUP,56.5,8,,11022025
+7022808,PG,Scottie Barnes,Toronto Raptors,Philadelphia 76ers,18130,44.45,48.67,IN STARTING LINEUP,56.5,8,,11022025
+7022812,PG,Cade Cunningham,Detroit Pistons,Chicago Bulls,21770,50.79,54.75,IN STARTING LINEUP,40.5,8,,11022025
+7022816,SG,Ayo Dosunmu,Chicago Bulls,Detroit Pistons,10610,26.2,18.5,IN STARTING LINEUP,17.25,15,,11022025
+7022816,SF,Ayo Dosunmu,Chicago Bulls,Detroit Pistons,10610,26.2,18.5,IN STARTING LINEUP,17.25,15,,11022025
+7022839,PF,Santi Aldama,Memphis Grizzlies,Phoenix Suns,10750,28.22,24.42,,25.25,3,,11022025
+7022839,C,Santi Aldama,Memphis Grizzlies,Phoenix Suns,10750,28.22,24.42,,25.25,3,,11022025
+7022847,SG,Jared Butler,Philadelphia 76ers,Toronto Raptors,6000,13.55,17,,28.5,2,,11022025
+7022847,PG,Jared Butler,Philadelphia 76ers,Toronto Raptors,6000,13.55,17,,28.5,2,,11022025
+7022853,SG,Josh Giddey,Chicago Bulls,Detroit Pistons,13960,33.89,30.83,IN STARTING LINEUP,28,23,,11022025
+7022853,PG,Josh Giddey,Chicago Bulls,Detroit Pistons,13960,33.89,30.83,IN STARTING LINEUP,28,23,,11022025
+7022874,C,Jay Huff,Memphis Grizzlies,Phoenix Suns,6000,13.96,1.58,,0,0,,11022025
+7022890,PG,Jeff Dowtin,Philadelphia 76ers,Toronto Raptors,6000,8.29,4.42,,0,0,,11022025
+7022912,SF,Matt Ryan,New York Knicks,Indiana Pacers,6000,2.24,0.92,,0,0,,11022025
+7022946,SG,Lindy Waters,Detroit Pistons,Chicago Bulls,6000,12.22,2,,1.5,0,,11022025
+7022956,C,Orlando Robinson,Toronto Raptors,Philadelphia 76ers,6990,8.75,16.17,,14,2,,11022025
+7022961,PG,Scotty Pippen,Memphis Grizzlies,Phoenix Suns,8900,23.24,14.67,,13.25,0,,11022025
+7022963,PG,Collin Gillespie,Phoenix Suns,Memphis Grizzlies,6000,5.36,9.17,,0,0,,11022025
+7022982,SG,Andrew Nembhard,Indiana Pacers,New York Knicks,10090,24.35,13,IN STARTING LINEUP,17.75,12,,11022025
+7022984,SG,Bennedict Mathurin,Indiana Pacers,New York Knicks,10700,28.21,30.67,,30.25,8,,11022025
+7022984,SF,Bennedict Mathurin,Indiana Pacers,New York Knicks,10700,28.21,30.67,,30.25,8,,11022025
+7022985,C,Jalen Duren,Detroit Pistons,Chicago Bulls,14760,30.38,37.17,IN STARTING LINEUP,27.25,5,,11022025
+7022989,SF,Dalen Terry,Chicago Bulls,Detroit Pistons,6000,8.72,8,,12.25,0,,11022025
+7022993,SG,Ochai Agbaji,Toronto Raptors,Philadelphia 76ers,8600,20.69,20.25,IN STARTING LINEUP,17,30,,11022025
+7022993,SF,Ochai Agbaji,Toronto Raptors,Philadelphia 76ers,8600,20.69,20.25,IN STARTING LINEUP,17,30,,11022025
+7022998,SG,Vince Williams,Memphis Grizzlies,Phoenix Suns,6000,14.83,14.92,,19.75,3,,11022025
+7022998,SF,Vince Williams,Memphis Grizzlies,Phoenix Suns,6000,14.83,14.92,,19.75,3,,11022025
+7023006,PG,TyTy Washington,Phoenix Suns,Memphis Grizzlies,6000,7.5,8.42,,10.25,0,,11022025
+7023036,SF,Simone Fontecchio,Detroit Pistons,Chicago Bulls,6000,12.73,18,,25.5,1,,11022025
+7023036,PF,Simone Fontecchio,Detroit Pistons,Chicago Bulls,6000,12.73,18,,25.5,1,,11022025
+7023101,SG,Gradey Dick,Toronto Raptors,Philadelphia 76ers,9610,24.8,21.17,IN STARTING LINEUP,30.5,13,,11022025
+7023101,SF,Gradey Dick,Toronto Raptors,Philadelphia 76ers,9610,24.8,21.17,IN STARTING LINEUP,30.5,13,,11022025
+7023102,SF,Ausar Thompson,Detroit Pistons,Chicago Bulls,10910,22,35.42,IN STARTING LINEUP,36.75,15,,11022025
+7023102,SG,Ausar Thompson,Detroit Pistons,Chicago Bulls,10910,22,35.42,IN STARTING LINEUP,36.75,15,,11022025
+7023103,PG,Marcus Sasser,Detroit Pistons,Chicago Bulls,6000,12.47,14.58,,15.5,0,,11022025
+7023104,SG,Ben Sheppard,Indiana Pacers,New York Knicks,7850,13.43,19.33,,15,2,,11022025
+7023104,SF,Ben Sheppard,Indiana Pacers,New York Knicks,7850,13.43,19.33,,15,2,,11022025
+7023105,PF,Jarace Walker,Indiana Pacers,New York Knicks,6000,14.7,6.92,,7.25,2,,11022025
+7023131,SF,Julian Phillips,Chicago Bulls,Detroit Pistons,6000,8.7,8.25,,8.75,0,,11022025
+7023147,PF,GG Jackson,Memphis Grizzlies,Phoenix Suns,7090,15.86,14.08,,4.5,26,,11022025
+7023147,SF,GG Jackson,Memphis Grizzlies,Phoenix Suns,7090,15.86,14.08,,4.5,26,,11022025
+7023159,C,Adama Sanogo,Chicago Bulls,Detroit Pistons,6000,4.13,3.25,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,,11022025
+7023160,SG,Ricky Council,Philadelphia 76ers,Toronto Raptors,6000,12.11,2.33,,0,0,,11022025
+7023238,SF,Ron Holland,Detroit Pistons,Chicago Bulls,6000,12.31,12.33,,8.75,1,,11022025
+7023240,SF,Matas Buzelis,Chicago Bulls,Detroit Pistons,10230,13.08,26.17,IN STARTING LINEUP,15.25,22,,11022025
+7023255,SF,Ryan Dunn,Phoenix Suns,Memphis Grizzlies,6000,14.51,8.83,,1.25,5,,11022025
+7023260,SG,Ja'Kobe Walter,Toronto Raptors,Philadelphia 76ers,8030,14.86,17.17,,14.75,2,,11022025
+7023264,C,Zach Edey,Memphis Grizzlies,Phoenix Suns,10590,24.16,24.17,,21.25,5,,11022025
+7023270,SG,Pacome Dadiet,New York Knicks,Indiana Pacers,6000,3.9,0.5,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,,11022025
+7023286,SG,Justin Edwards,Philadelphia 76ers,Toronto Raptors,8120,16.19,15.08,IN STARTING LINEUP,13.5,14,,11022025
+7023286,SF,Justin Edwards,Philadelphia 76ers,Toronto Raptors,8120,16.19,15.08,IN STARTING LINEUP,13.5,14,,11022025
+7023287,C,Adem Bona,Philadelphia 76ers,Toronto Raptors,6000,8.61,10.25,,0,0,,11022025
+7023292,SF,Kevin McCullar,New York Knicks,Indiana Pacers,6000,0,0,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,,11022025
+7023293,PG,Tyler Kolek,New York Knicks,Indiana Pacers,6000,4.2,3,,0,0,,11022025
+7023294,C,Ariel Hukporti,New York Knicks,Indiana Pacers,6000,5.42,6.92,,1.5,0,,11022025
+7023297,SG,Johnny Furphy,Indiana Pacers,New York Knicks,6000,4.71,3.25,,7.75,0,,11022025
+7023297,SF,Johnny Furphy,Indiana Pacers,New York Knicks,6000,4.71,3.25,,7.75,0,,11022025
+7023304,PF,Oso Ighodaro,Phoenix Suns,Memphis Grizzlies,6000,10.34,6.33,,0,0,,11022025
+7023304,C,Oso Ighodaro,Phoenix Suns,Memphis Grizzlies,6000,10.34,6.33,,0,0,,11022025
+7023308,PF,Ulrich Chomche,Toronto Raptors,Philadelphia 76ers,6000,2.71,3.17,,4.5,0,,11022025
+7023310,PF,Jonathan Mogbo,Toronto Raptors,Philadelphia 76ers,11280,15.35,24.75,IN STARTING LINEUP,20.75,8,,11022025
+7023310,C,Jonathan Mogbo,Toronto Raptors,Philadelphia 76ers,11280,15.35,24.75,IN STARTING LINEUP,20.75,8,,11022025
+7023311,PG,Jamal Shead,Toronto Raptors,Philadelphia 76ers,8170,13.9,17.83,,15.75,1,,11022025
+7023318,SF,Jaylen Wells,Memphis Grizzlies,Phoenix Suns,7410,19.42,12.25,,15.5,4,,11022025
+7023318,SG,Jaylen Wells,Memphis Grizzlies,Phoenix Suns,7410,19.42,12.25,,15.5,4,,11022025
+7023918,SF,Jamison Battle,Toronto Raptors,Philadelphia 76ers,6000,9.78,7.75,,4.75,0,,11022025

@@ -1,0 +1,407 @@
+Player ID,Position,Name,Team,Opponent,Salary,FPPG,Form,Playing Status,Score,Selected %,Exclude,Date
+7000808,SF,Kyle Anderson,Miami Heat,Detroit Pistons,6320,14.51,13.08,,0,0,,19032025
+7000808,PF,Kyle Anderson,Miami Heat,Detroit Pistons,6320,14.51,13.08,,0,0,,19032025
+7000810,PG,Cory Joseph,Orlando Magic,Houston Rockets,6080,6.63,21.5,IN STARTING LINEUP,21.75,10,,19032025
+7000823,PF,Jae Crowder,Sacramento Kings,Cleveland Cavaliers,6000,7.54,2.92,,0,0,,19032025
+7000823,C,Jae Crowder,Sacramento Kings,Cleveland Cavaliers,6000,7.54,2.92,,0,0,,19032025
+7000854,PF,Aaron Gordon,Denver Nuggets,Los Angeles Lakers,11690,25.86,30.42,IN STARTING LINEUP,43.75,3,,19032025
+7000854,C,Aaron Gordon,Denver Nuggets,Los Angeles Lakers,11690,25.86,30.42,IN STARTING LINEUP,43.75,3,,19032025
+7000855,C,Nikola Vucevic,Chicago Bulls,Phoenix Suns,15230,40.11,35.42,IN STARTING LINEUP,42,1,,19032025
+7000858,PF,Tobias Harris,Detroit Pistons,Miami Heat,11430,28.32,26.08,IN STARTING LINEUP,31.75,2,,19032025
+7000873,PF,Julius Randle,Minnesota Timberwolves,New Orleans Pelicans,15240,36.04,29.67,IN STARTING LINEUP,25.25,2,,19032025
+7000873,C,Julius Randle,Minnesota Timberwolves,New Orleans Pelicans,15240,36.04,29.67,IN STARTING LINEUP,25.25,2,,19032025
+7000875,SG,Jordan Clarkson,Utah Jazz,Washington Wizards,10900,28.4,24.42,,21.75,0,,19032025
+7000923,C,Bismack Biyombo,San Antonio Spurs,New York Knicks,6580,15.88,10.5,,8.5,0,,19032025
+7000984,C,Kelly Olynyk,New Orleans Pelicans,Minnesota Timberwolves,10640,19.94,26.92,IN STARTING LINEUP,21.5,1,,19032025
+7000985,PG,Marcus Smart,Washington Wizards,Utah Jazz,8520,20.01,25.25,,9.5,1,,19032025
+7000985,SG,Marcus Smart,Washington Wizards,Utah Jazz,8520,20.01,25.25,,9.5,1,,19032025
+7000987,PF,Jeff Green,Houston Rockets,Orlando Magic,6000,8.92,4.33,,2,0,,19032025
+7000987,C,Jeff Green,Houston Rockets,Orlando Magic,6000,8.92,4.33,,2,0,,19032025
+7000988,C,Dwight Powell,Dallas Mavericks,Indiana Pacers,6000,7.65,11.08,,5.75,0,,19032025
+7001014,SF,DeMar DeRozan,Sacramento Kings,Cleveland Cavaliers,14730,35.91,35.42,IN STARTING LINEUP,36.75,6,,19032025
+7001020,C,Jonas Valanciunas,Sacramento Kings,Cleveland Cavaliers,13900,26.69,23.25,IN STARTING LINEUP,31.75,2,,19032025
+7001023,PF,James Johnson,Indiana Pacers,Dallas Mavericks,6000,1.96,1.33,,0,0,,19032025
+7001023,C,James Johnson,Indiana Pacers,Dallas Mavericks,6000,1.96,1.33,,0,0,,19032025
+7001030,PG,Dennis Schroder,Detroit Pistons,Miami Heat,10220,26.89,27.42,,15.75,0,,19032025
+7001030,SG,Dennis Schroder,Detroit Pistons,Miami Heat,10220,26.89,27.42,,15.75,0,,19032025
+7001049,SG,Tim Hardaway,Detroit Pistons,Miami Heat,7060,17.84,14.92,IN STARTING LINEUP,16,2,,19032025
+7001049,SF,Tim Hardaway,Detroit Pistons,Miami Heat,7060,17.84,14.92,IN STARTING LINEUP,16,2,,19032025
+7001058,SF,Doug McDermott,Sacramento Kings,Cleveland Cavaliers,6000,4.49,1.08,,0,0,,19032025
+7001072,PG,Mike Conley,Minnesota Timberwolves,New Orleans Pelicans,9290,21.42,20.42,IN STARTING LINEUP,25,0,,19032025
+7001108,SG,Gary Harris,Orlando Magic,Houston Rockets,6000,7.42,9.92,,1.25,0,,19032025
+7001108,SF,Gary Harris,Orlando Magic,Houston Rockets,6000,7.42,9.92,,1.25,0,,19032025
+7001116,PG,Spencer Dinwiddie,Dallas Mavericks,Indiana Pacers,11690,21.5,29.25,IN STARTING LINEUP,46.75,11,,19032025
+7001116,SG,Spencer Dinwiddie,Dallas Mavericks,Indiana Pacers,11690,21.5,29.25,IN STARTING LINEUP,46.75,11,,19032025
+7001119,SG,Kentavious Caldwell-Pope,Orlando Magic,Houston Rockets,7550,17.81,16.33,IN STARTING LINEUP,19.5,1,,19032025
+7001131,C,Rudy Gobert,Minnesota Timberwolves,New Orleans Pelicans,13020,30.94,24.92,IN STARTING LINEUP,24.75,1,,19032025
+7001137,PF,Joe Ingles,Minnesota Timberwolves,New Orleans Pelicans,6000,3.51,0.83,,0,0,,19032025
+7001138,SG,Alec Burks,Miami Heat,Detroit Pistons,6000,13.52,18.58,,11.25,0,,19032025
+7001138,PG,Alec Burks,Miami Heat,Detroit Pistons,6000,13.52,18.58,,11.25,0,,19032025
+7001144,C,P.J. Tucker,New York Knicks,San Antonio Spurs,6000,0,0,,0,0,,19032025
+7001144,PF,P.J. Tucker,New York Knicks,San Antonio Spurs,6000,0,0,,0,0,,19032025
+7001145,PF,Markieff Morris,Los Angeles Lakers,Denver Nuggets,6000,6.4,11.33,,0,0,,19032025
+7001145,C,Markieff Morris,Los Angeles Lakers,Denver Nuggets,6000,6.4,11.33,,0,0,,19032025
+7001153,C,Alex Len,Los Angeles Lakers,Denver Nuggets,6000,6.23,7.83,,0,0,,19032025
+7001178,PF,Harrison Barnes,San Antonio Spurs,New York Knicks,8900,20.8,18.42,IN STARTING LINEUP,20.5,0,,19032025
+7001178,SF,Harrison Barnes,San Antonio Spurs,New York Knicks,8900,20.8,18.42,IN STARTING LINEUP,20.5,0,,19032025
+7001193,PG,CJ McCollum,New Orleans Pelicans,Minnesota Timberwolves,13210,34.77,29.42,IN STARTING LINEUP,30.5,2,,19032025
+7001193,SG,CJ McCollum,New Orleans Pelicans,Minnesota Timberwolves,13210,34.77,29.42,IN STARTING LINEUP,30.5,2,,19032025
+7001203,PG,Russell Westbrook,Denver Nuggets,Los Angeles Lakers,15070,32.19,48.5,IN STARTING LINEUP,33.5,2,,19032025
+7001210,PF,Kevin Durant,Phoenix Suns,Chicago Bulls,17390,43.16,32.83,IN STARTING LINEUP,44,14,,19032025
+7001213,C,Steven Adams,Houston Rockets,Orlando Magic,7090,13.4,9.58,,12.5,0,,19032025
+7001218,C,Tristan Thompson,Cleveland Cavaliers,Sacramento Kings,6000,6.15,3.25,,0,0,,19032025
+7001228,C,Kevin Love,Miami Heat,Detroit Pistons,6000,14.34,16.92,,0,0,,19032025
+7001235,PG,Chris Paul,San Antonio Spurs,New York Knicks,10770,28.35,18.5,IN STARTING LINEUP,34,0,,19032025
+7001238,C,DeAndre Jordan,Denver Nuggets,Los Angeles Lakers,6000,11.35,8,,0,0,,19032025
+7001317,PG,Terry Rozier,Miami Heat,Detroit Pistons,8220,21.64,9.17,,0,0,,19032025
+7001317,SG,Terry Rozier,Miami Heat,Detroit Pistons,8220,21.64,9.17,,0,0,,19032025
+7001320,C,Richaun Holmes,Washington Wizards,Utah Jazz,9600,19.12,20.67,,0,0,,19032025
+7001322,PG,T.J. McConnell,Indiana Pacers,Dallas Mavericks,8090,21.23,20.75,,18,33,,19032025
+7001326,PF,Trey Lyles,Sacramento Kings,Cleveland Cavaliers,6000,15.83,23.58,,31.25,8,,19032025
+7001326,C,Trey Lyles,Sacramento Kings,Cleveland Cavaliers,6000,15.83,23.58,,31.25,8,,19032025
+7001331,PG,Delon Wright,New York Knicks,San Antonio Spurs,6000,8.93,6.42,,1.5,0,,19032025
+7001333,C,Myles Turner,Indiana Pacers,Dallas Mavericks,12550,31.65,26.75,IN STARTING LINEUP,24.5,2,,19032025
+7001341,PG,Cameron Payne,New York Knicks,San Antonio Spurs,6000,14.42,13.75,,20.5,0,,19032025
+7001341,SG,Cameron Payne,New York Knicks,San Antonio Spurs,6000,14.42,13.75,,20.5,0,,19032025
+7001353,SG,Devin Booker,Phoenix Suns,Chicago Bulls,17450,43.91,45.83,IN STARTING LINEUP,57.5,11,,19032025
+7001353,PG,Devin Booker,Phoenix Suns,Chicago Bulls,17450,43.91,45.83,IN STARTING LINEUP,57.5,11,,19032025
+7001366,PG,Tyus Jones,Phoenix Suns,Chicago Bulls,9270,24.4,24.75,,16.75,2,,19032025
+7001367,C,Karl-Anthony Towns,New York Knicks,San Antonio Spurs,19210,48.37,46.17,IN STARTING LINEUP,47.75,3,,19032025
+7001401,PF,Dorian Finney-Smith,Los Angeles Lakers,Denver Nuggets,9260,18.45,25.92,IN STARTING LINEUP,28.5,0,,19032025
+7001401,C,Dorian Finney-Smith,Los Angeles Lakers,Denver Nuggets,9260,18.45,25.92,IN STARTING LINEUP,28.5,0,,19032025
+7001409,PF,Pascal Siakam,Indiana Pacers,Dallas Mavericks,16020,37.23,43.25,IN STARTING LINEUP,41.75,8,,19032025
+7001411,PG,Fred VanVleet,Houston Rockets,Orlando Magic,12620,32.5,31.17,IN STARTING LINEUP,34,2,,19032025
+7001416,C,Dario Saric,Denver Nuggets,Los Angeles Lakers,6000,10.68,8.83,,0,0,,19032025
+7001416,PF,Dario Saric,Denver Nuggets,Los Angeles Lakers,6000,10.68,8.83,,0,0,,19032025
+7001432,SG,Malik Beasley,Detroit Pistons,Miami Heat,9750,25.65,19.17,,24.25,0,,19032025
+7001432,SF,Malik Beasley,Detroit Pistons,Miami Heat,9750,25.65,19.17,,24.25,0,,19032025
+7001481,PG,Monte Morris,Phoenix Suns,Chicago Bulls,6000,10.31,10.42,,0,0,,19032025
+7001520,SG,Malik Monk,Sacramento Kings,Cleveland Cavaliers,14000,34.89,44.75,IN STARTING LINEUP,48,13,,19032025
+7001520,PG,Malik Monk,Sacramento Kings,Cleveland Cavaliers,14000,34.89,44.75,IN STARTING LINEUP,48,13,,19032025
+7001523,C,Thomas Bryant,Indiana Pacers,Dallas Mavericks,6000,15.52,11.92,,11.25,0,,19032025
+7001531,SF,Royce O'Neale,Phoenix Suns,Chicago Bulls,9090,22.54,24,,29.5,1,,19032025
+7001531,PF,Royce O'Neale,Phoenix Suns,Chicago Bulls,9090,22.54,24,,29.5,1,,19032025
+7001533,PF,Dillon Brooks,Houston Rockets,Orlando Magic,11780,24.18,30.42,IN STARTING LINEUP,26.25,1,,19032025
+7001537,C,Tony Bradley,Indiana Pacers,Dallas Mavericks,6000,6.96,11.42,,3.5,0,,19032025
+7001539,SG,Alex Caruso,Oklahoma City Thunder,Philadelphia 76ers,9900,18.15,16.83,,0,3,,19032025
+7001539,SF,Alex Caruso,Oklahoma City Thunder,Philadelphia 76ers,9900,18.15,16.83,,0,3,,19032025
+7001550,SF,Josh Hart,New York Knicks,San Antonio Spurs,15600,38.92,36.75,IN STARTING LINEUP,30.25,7,,19032025
+7001550,PF,Josh Hart,New York Knicks,San Antonio Spurs,15600,38.92,36.75,IN STARTING LINEUP,30.25,7,,19032025
+7001565,SG,Donovan Mitchell,Cleveland Cavaliers,Sacramento Kings,15720,39.57,37.25,IN STARTING LINEUP,39.25,13,,19032025
+7001565,PG,Donovan Mitchell,Cleveland Cavaliers,Sacramento Kings,15720,39.57,37.25,IN STARTING LINEUP,39.25,13,,19032025
+7001570,C,Bam Adebayo,Miami Heat,Detroit Pistons,15310,40.3,28.67,IN STARTING LINEUP,57.25,9,,19032025
+7001570,PF,Bam Adebayo,Miami Heat,Detroit Pistons,15310,40.3,28.67,IN STARTING LINEUP,57.25,9,,19032025
+7001572,PF,Guerschon Yabusele,Philadelphia 76ers,Oklahoma City Thunder,10420,22.91,23.83,IN STARTING LINEUP,22,1,,19032025
+7001572,C,Guerschon Yabusele,Philadelphia 76ers,Oklahoma City Thunder,10420,22.91,23.83,IN STARTING LINEUP,22,1,,19032025
+7001578,PG,Markelle Fultz,Sacramento Kings,Cleveland Cavaliers,6000,5.4,3,,9,0,,19032025
+7001589,C,Zach Collins,Chicago Bulls,Phoenix Suns,8250,16.18,12.58,,19.25,0,,19032025
+7001593,SG,Luke Kennard,Memphis Grizzlies,Portland Trail Blazers,10300,20.25,16.42,IN STARTING LINEUP,18.25,2,,19032025
+7001593,PG,Luke Kennard,Memphis Grizzlies,Portland Trail Blazers,10300,20.25,16.42,IN STARTING LINEUP,18.25,2,,19032025
+7001594,PF,OG Anunoby,New York Knicks,San Antonio Spurs,13870,30.9,31.75,IN STARTING LINEUP,30.75,2,,19032025
+7001594,SF,OG Anunoby,New York Knicks,San Antonio Spurs,13870,30.9,31.75,IN STARTING LINEUP,30.75,2,,19032025
+7001595,PF,Jonathan Isaac,Orlando Magic,Houston Rockets,6130,16.13,12.08,,11.75,1,,19032025
+7001595,C,Jonathan Isaac,Orlando Magic,Houston Rockets,6130,16.13,12.08,,11.75,1,,19032025
+7001598,C,Jarrett Allen,Cleveland Cavaliers,Sacramento Kings,13330,33.37,31.33,IN STARTING LINEUP,20.25,2,,19032025
+7022287,SG,Damion Lee,Phoenix Suns,Chicago Bulls,6000,5.44,2.42,,0,0,,19032025
+7022287,SF,Damion Lee,Phoenix Suns,Chicago Bulls,6000,5.44,2.42,,0,0,,19032025
+7022296,PG,Luka Doncic,Los Angeles Lakers,Denver Nuggets,23850,55.61,61.25,IN STARTING LINEUP,57.75,9,,19032025
+7022297,C,Jaren Jackson,Memphis Grizzlies,Portland Trail Blazers,15440,38.25,31.33,IN STARTING LINEUP,27.75,21,,19032025
+7022297,PF,Jaren Jackson,Memphis Grizzlies,Portland Trail Blazers,15440,38.25,31.33,IN STARTING LINEUP,27.75,21,,19032025
+7022300,SG,Kevin Huerter,Chicago Bulls,Phoenix Suns,10500,18.46,27.33,IN STARTING LINEUP,26.5,0,,19032025
+7022302,SG,Collin Sexton,Utah Jazz,Washington Wizards,11620,29.16,28.75,IN STARTING LINEUP,28.75,4,,19032025
+7022302,PG,Collin Sexton,Utah Jazz,Washington Wizards,11620,29.16,28.75,IN STARTING LINEUP,28.75,4,,19032025
+7022307,PG,Jevon Carter,Chicago Bulls,Phoenix Suns,6000,7.42,9.42,,0,0,,19032025
+7022307,SG,Jevon Carter,Chicago Bulls,Phoenix Suns,6000,7.42,9.42,,0,0,,19032025
+7022308,SG,Anfernee Simons,Portland Trail Blazers,Memphis Grizzlies,12810,32.53,30,IN STARTING LINEUP,34.75,4,,19032025
+7022308,PG,Anfernee Simons,Portland Trail Blazers,Memphis Grizzlies,12810,32.53,30,IN STARTING LINEUP,34.75,4,,19032025
+7022310,SF,Michael Porter,Denver Nuggets,Los Angeles Lakers,13440,33.41,37.08,IN STARTING LINEUP,24,5,,19032025
+7022310,PF,Michael Porter,Denver Nuggets,Los Angeles Lakers,13440,33.41,37.08,IN STARTING LINEUP,24,5,,19032025
+7022311,C,Marvin Bagley,Memphis Grizzlies,Portland Trail Blazers,6000,9.11,7.25,,3.25,0,,19032025
+7022314,PG,Bruce Brown,New Orleans Pelicans,Minnesota Timberwolves,6270,16.51,13.92,,34.25,6,,19032025
+7022314,SF,Bruce Brown,New Orleans Pelicans,Minnesota Timberwolves,6270,16.51,13.92,,34.25,6,,19032025
+7022324,SG,Shake Milton,Los Angeles Lakers,Denver Nuggets,6000,11.85,12,,2.25,0,,19032025
+7022324,PG,Shake Milton,Los Angeles Lakers,Denver Nuggets,6000,11.85,12,,2.25,0,,19032025
+7022333,SG,Landry Shamet,New York Knicks,San Antonio Spurs,6000,7.28,9.83,,4,0,,19032025
+7022333,SF,Landry Shamet,New York Knicks,San Antonio Spurs,6000,7.28,9.83,,4,0,,19032025
+7022335,SF,Mikal Bridges,New York Knicks,San Antonio Spurs,12590,30.08,31.83,IN STARTING LINEUP,29.75,6,,19032025
+7022335,SG,Mikal Bridges,New York Knicks,San Antonio Spurs,12590,30.08,31.83,IN STARTING LINEUP,29.75,6,,19032025
+7022343,PF,Jarred Vanderbilt,Los Angeles Lakers,Denver Nuggets,6020,15.25,8.83,,18.5,1,,19032025
+7022346,PG,Donte DiVincenzo,Minnesota Timberwolves,New Orleans Pelicans,11480,25.75,30.42,,23.25,0,,19032025
+7022347,C,Mitchell Robinson,New York Knicks,San Antonio Spurs,7180,17.17,25.08,,34.25,0,,19032025
+7022348,PG,Aaron Holiday,Houston Rockets,Orlando Magic,6000,10,13.92,,1.5,0,,19032025
+7022353,C,Mo Bamba,New Orleans Pelicans,Minnesota Timberwolves,6000,13.24,13,,0,0,,19032025
+7022354,C,Wendell Carter,Orlando Magic,Houston Rockets,12140,23.38,21.67,IN STARTING LINEUP,13.5,0,,19032025
+7022366,SG,Duncan Robinson,Miami Heat,Detroit Pistons,7870,19.77,14.58,IN STARTING LINEUP,19.75,3,,19032025
+7022376,PF,Kenrich Williams,Oklahoma City Thunder,Philadelphia 76ers,9430,13.29,18.42,,26.25,6,,19032025
+7022398,PG,Jordan McLaughlin,San Antonio Spurs,New York Knicks,6000,4.81,5.83,,0,0,,19032025
+7022447,PG,Gabe Vincent,Los Angeles Lakers,Denver Nuggets,6640,12.1,16.92,,15,0,,19032025
+7022447,SG,Gabe Vincent,Los Angeles Lakers,Denver Nuggets,6640,12.1,16.92,,15,0,,19032025
+7022478,SF,Haywood Highsmith,Miami Heat,Detroit Pistons,6000,15.49,6.25,,15.75,2,,19032025
+7022478,PF,Haywood Highsmith,Miami Heat,Detroit Pistons,6000,15.49,6.25,,15.75,2,,19032025
+7022498,PG,Ty Jerome,Cleveland Cavaliers,Sacramento Kings,8570,22.44,16.92,,25.25,28,,19032025
+7022506,SG,Coby White,Chicago Bulls,Phoenix Suns,15930,33.33,37.5,IN STARTING LINEUP,39.5,1,,19032025
+7022506,SF,Coby White,Chicago Bulls,Phoenix Suns,15930,33.33,37.5,IN STARTING LINEUP,39.5,1,,19032025
+7022510,C,Jaxson Hayes,Los Angeles Lakers,Denver Nuggets,10880,17.37,28.67,IN STARTING LINEUP,18.75,2,,19032025
+7022511,SF,Cam Reddish,Los Angeles Lakers,Denver Nuggets,6000,9.3,2.75,,0,0,,19032025
+7022511,SG,Cam Reddish,Los Angeles Lakers,Denver Nuggets,6000,9.3,2.75,,0,0,,19032025
+7022512,SG,Talen Horton-Tucker,Chicago Bulls,Phoenix Suns,6000,10.8,1.67,,0,0,,19032025
+7022512,SF,Talen Horton-Tucker,Chicago Bulls,Phoenix Suns,6000,10.8,1.67,,0,0,,19032025
+7022513,PF,Chuma Okeke,Philadelphia 76ers,Oklahoma City Thunder,6000,8,8,,41.25,0,,19032025
+7022513,SF,Chuma Okeke,Philadelphia 76ers,Oklahoma City Thunder,6000,8,8,,41.25,0,,19032025
+7022516,PG,Jordan Poole,Washington Wizards,Utah Jazz,13530,35.6,26.25,IN STARTING LINEUP,11,1,,19032025
+7022520,PF,P.J. Washington,Dallas Mavericks,Indiana Pacers,14170,32.69,28.92,IN STARTING LINEUP,33.75,15,,19032025
+7022520,SF,P.J. Washington,Dallas Mavericks,Indiana Pacers,14170,32.69,28.92,IN STARTING LINEUP,33.75,15,,19032025
+7022521,SF,Cody Martin,Phoenix Suns,Chicago Bulls,7700,20.26,12.25,,17,0,,19032025
+7022521,SG,Cody Martin,Phoenix Suns,Chicago Bulls,7700,20.26,12.25,,17,0,,19032025
+7022523,SF,Matisse Thybulle,Portland Trail Blazers,Memphis Grizzlies,7510,19.75,19.75,,14,1,,19032025
+7022526,SF,De'Andre Hunter,Cleveland Cavaliers,Sacramento Kings,10360,27.13,22.42,,20.5,0,,19032025
+7022526,PF,De'Andre Hunter,Cleveland Cavaliers,Sacramento Kings,10360,27.13,22.42,,20.5,0,,19032025
+7022534,PF,Zion Williamson,New Orleans Pelicans,Minnesota Timberwolves,16940,44.59,45.33,IN STARTING LINEUP,51.75,3,,19032025
+7022535,PF,Bol Bol,Phoenix Suns,Chicago Bulls,6000,14.3,7.92,,0,0,,19032025
+7022536,PG,Tyler Herro,Miami Heat,Detroit Pistons,15570,40.97,31,IN STARTING LINEUP,39,2,,19032025
+7022540,SG,Nickeil Alexander-Walker,Minnesota Timberwolves,New Orleans Pelicans,7350,19.35,20.83,,20,2,,19032025
+7022540,SF,Nickeil Alexander-Walker,Minnesota Timberwolves,New Orleans Pelicans,7350,19.35,20.83,,20,2,,19032025
+7022541,SF,Keldon Johnson,San Antonio Spurs,New York Knicks,10930,22.49,28.67,,20.5,1,,19032025
+7022541,PF,Keldon Johnson,San Antonio Spurs,New York Knicks,10930,22.49,28.67,,20.5,1,,19032025
+7022549,PF,Brandon Clarke,Memphis Grizzlies,Portland Trail Blazers,8930,19.02,23.58,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,1.25,0,,19032025
+7022549,C,Brandon Clarke,Memphis Grizzlies,Portland Trail Blazers,8930,19.02,23.58,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,1.25,0,,19032025
+7022550,C,Goga Bitadze,Orlando Magic,Houston Rockets,8880,23.38,5.67,,33,0,,19032025
+7022564,PF,Dean Wade,Cleveland Cavaliers,Sacramento Kings,6100,15.9,10.92,IN STARTING LINEUP,24.25,0,,19032025
+7022564,C,Dean Wade,Cleveland Cavaliers,Sacramento Kings,6100,15.9,10.92,IN STARTING LINEUP,24.25,0,,19032025
+7022568,C,Naz Reid,Minnesota Timberwolves,New Orleans Pelicans,11320,29.8,28.33,,28.25,9,,19032025
+7022568,PF,Naz Reid,Minnesota Timberwolves,New Orleans Pelicans,11320,29.8,28.33,,28.25,9,,19032025
+7022571,SG,John Konchar,Memphis Grizzlies,Portland Trail Blazers,6000,9.68,10.83,,14.25,0,,19032025
+7022571,SF,John Konchar,Memphis Grizzlies,Portland Trail Blazers,6000,9.68,10.83,,14.25,0,,19032025
+7022583,SF,Max Strus,Cleveland Cavaliers,Sacramento Kings,8530,21.9,27.67,IN STARTING LINEUP,22,12,,19032025
+7022583,SG,Max Strus,Cleveland Cavaliers,Sacramento Kings,8530,21.9,27.67,IN STARTING LINEUP,22,12,,19032025
+7022584,SF,Javonte Green,Cleveland Cavaliers,Sacramento Kings,6000,14.51,8.58,,0,0,,19032025
+7022584,PF,Javonte Green,Cleveland Cavaliers,Sacramento Kings,6000,14.51,8.58,,0,0,,19032025
+7022607,SF,Oshae Brissett,Philadelphia 76ers,Oklahoma City Thunder,8460,22.25,22.25,IN STARTING LINEUP,11,3,,19032025
+7022610,C,Vlatko Cancar,Denver Nuggets,Los Angeles Lakers,6000,5.19,7,,15.5,0,,19032025
+7022676,SG,Desmond Bane,Memphis Grizzlies,Portland Trail Blazers,16510,38.51,45.5,IN STARTING LINEUP,38.75,12,,19032025
+7022676,SF,Desmond Bane,Memphis Grizzlies,Portland Trail Blazers,16510,38.51,45.5,IN STARTING LINEUP,38.75,12,,19032025
+7022677,SF,Aaron Nesmith,Indiana Pacers,Dallas Mavericks,10640,20.8,33,IN STARTING LINEUP,29.75,3,,19032025
+7022677,SG,Aaron Nesmith,Indiana Pacers,Dallas Mavericks,10640,20.8,33,IN STARTING LINEUP,29.75,3,,19032025
+7022679,PF,Patrick Williams,Chicago Bulls,Phoenix Suns,7490,19.53,15.75,,11,1,,19032025
+7022679,SF,Patrick Williams,Chicago Bulls,Phoenix Suns,7490,19.53,15.75,,11,1,,19032025
+7022680,SG,Isaiah Joe,Oklahoma City Thunder,Philadelphia 76ers,8940,17.57,22.5,IN STARTING LINEUP,33.25,23,,19032025
+7022683,C,Paul Reed,Detroit Pistons,Miami Heat,6000,11.51,11.17,,0,0,,19032025
+7022686,PF,Obi Toppin,Indiana Pacers,Dallas Mavericks,9750,19.94,33.08,,22,3,,19032025
+7022686,C,Obi Toppin,Indiana Pacers,Dallas Mavericks,9750,19.94,33.08,,22,3,,19032025
+7022687,SF,Isaac Okoro,Cleveland Cavaliers,Sacramento Kings,6000,12.5,8.42,,9,0,,19032025
+7022687,PF,Isaac Okoro,Cleveland Cavaliers,Sacramento Kings,6000,12.5,8.42,,9,0,,19032025
+7022698,SF,Jaden McDaniels,Minnesota Timberwolves,New Orleans Pelicans,13090,28.36,37.08,IN STARTING LINEUP,15.5,2,,19032025
+7022702,C,Precious Achiuwa,New York Knicks,San Antonio Spurs,6850,17.78,5.67,,6.5,0,,19032025
+7022702,PF,Precious Achiuwa,New York Knicks,San Antonio Spurs,6850,17.78,5.67,,6.5,0,,19032025
+7022703,C,Jalen Smith,Chicago Bulls,Phoenix Suns,7850,18.96,17.08,,0,0,,19032025
+7022707,PG,Tre Jones,Chicago Bulls,Phoenix Suns,13600,18.16,38,IN STARTING LINEUP,34.5,1,,19032025
+7022708,SG,Devin Vassell,San Antonio Spurs,New York Knicks,13650,29.46,35.33,IN STARTING LINEUP,27.5,1,,19032025
+7022708,SF,Devin Vassell,San Antonio Spurs,New York Knicks,13650,29.46,35.33,IN STARTING LINEUP,27.5,1,,19032025
+7022711,SG,Sam Merrill,Cleveland Cavaliers,Sacramento Kings,6000,14.06,11.08,,6.75,0,,19032025
+7022713,C,Nick Richards,Phoenix Suns,Chicago Bulls,9890,23.64,21.83,IN STARTING LINEUP,37.25,2,,19032025
+7022714,C,Isaiah Stewart,Detroit Pistons,Miami Heat,7460,18.56,19.75,,16,0,,19032025
+7022716,PF,Zeke Nnaji,Denver Nuggets,Los Angeles Lakers,6000,7.82,14.25,,2.5,0,,19032025
+7022716,C,Zeke Nnaji,Denver Nuggets,Los Angeles Lakers,6000,7.82,14.25,,2.5,0,,19032025
+7022722,SG,Anthony Edwards,Minnesota Timberwolves,New Orleans Pelicans,17400,45.8,49.75,IN STARTING LINEUP,47.5,22,,19032025
+7022722,PG,Anthony Edwards,Minnesota Timberwolves,New Orleans Pelicans,17400,45.8,49.75,IN STARTING LINEUP,47.5,22,,19032025
+7022744,SF,Deni Avdija,Portland Trail Blazers,Memphis Grizzlies,14710,31.67,38.92,IN STARTING LINEUP,69,4,,19032025
+7022744,PF,Deni Avdija,Portland Trail Blazers,Memphis Grizzlies,14710,31.67,38.92,IN STARTING LINEUP,69,4,,19032025
+7022749,PF,Anthony Gill,Washington Wizards,Utah Jazz,6000,3.91,5.33,,13.75,1,,19032025
+7022749,C,Anthony Gill,Washington Wizards,Utah Jazz,6000,3.91,5.33,,13.75,1,,19032025
+7022750,SF,Jae'Sean Tate,Houston Rockets,Orlando Magic,6000,8.93,15,,0,0,,19032025
+7022750,PF,Jae'Sean Tate,Houston Rockets,Orlando Magic,6000,8.93,15,,0,0,,19032025
+7022784,SF,Naji Marshall,Dallas Mavericks,Indiana Pacers,16610,25.05,34.67,IN STARTING LINEUP,34.75,1,,19032025
+7022784,PF,Naji Marshall,Dallas Mavericks,Indiana Pacers,16610,25.05,34.67,IN STARTING LINEUP,34.75,1,,19032025
+7022799,SF,Kessler Edwards,Dallas Mavericks,Indiana Pacers,10120,11.48,22.67,IN STARTING LINEUP,16,3,,19032025
+7022799,PF,Kessler Edwards,Dallas Mavericks,Indiana Pacers,10120,11.48,22.67,IN STARTING LINEUP,16,3,,19032025
+7022805,PG,Miles McBride,New York Knicks,San Antonio Spurs,11920,19.88,26.33,IN STARTING LINEUP,23.25,1,,19032025
+7022805,SG,Miles McBride,New York Knicks,San Antonio Spurs,11920,19.88,26.33,IN STARTING LINEUP,23.25,1,,19032025
+7022807,SG,Quentin Grimes,Philadelphia 76ers,Oklahoma City Thunder,18510,25.07,55.42,IN STARTING LINEUP,43,2,,19032025
+7022807,SF,Quentin Grimes,Philadelphia 76ers,Oklahoma City Thunder,18510,25.07,55.42,IN STARTING LINEUP,43,2,,19032025
+7022809,PG,Dalano Banton,Portland Trail Blazers,Memphis Grizzlies,6000,15.31,6,,0,0,,19032025
+7022809,SG,Dalano Banton,Portland Trail Blazers,Memphis Grizzlies,6000,15.31,6,,0,0,,19032025
+7022811,PF,Evan Mobley,Cleveland Cavaliers,Sacramento Kings,15260,39.19,37.92,IN STARTING LINEUP,51,34,,19032025
+7022811,C,Evan Mobley,Cleveland Cavaliers,Sacramento Kings,15260,39.19,37.92,IN STARTING LINEUP,51,34,,19032025
+7022812,PG,Cade Cunningham,Detroit Pistons,Miami Heat,18830,49.55,45.67,IN STARTING LINEUP,64.5,13,,19032025
+7022813,C,Luka Garza,Minnesota Timberwolves,New Orleans Pelicans,6000,6.54,6.42,,0,0,,19032025
+7022819,PF,Sandro Mamukelashvili,San Antonio Spurs,New York Knicks,6020,10.45,21.33,,55.25,2,,19032025
+7022819,C,Sandro Mamukelashvili,San Antonio Spurs,New York Knicks,6020,10.45,21.33,,55.25,2,,19032025
+7022820,SF,Franz Wagner,Orlando Magic,Houston Rockets,15930,41.45,34.67,IN STARTING LINEUP,38.5,4,,19032025
+7022824,C,Kai Jones,Dallas Mavericks,Indiana Pacers,6000,6.79,12.33,IN STARTING LINEUP,34.25,31,,19032025
+7022825,PF,JT Thor,Washington Wizards,Utah Jazz,9150,5.53,3.42,,22.25,0,,19032025
+7022825,SF,JT Thor,Washington Wizards,Utah Jazz,9150,5.53,3.42,,22.25,0,,19032025
+7022836,PG,Davion Mitchell,Miami Heat,Detroit Pistons,7650,18.36,24.75,,20.75,0,,19032025
+7022839,PF,Santi Aldama,Memphis Grizzlies,Portland Trail Blazers,11670,28.62,27.17,,24.75,0,,19032025
+7022839,C,Santi Aldama,Memphis Grizzlies,Portland Trail Blazers,11670,28.62,27.17,,24.75,0,,19032025
+7022840,PG,Bones Hyland,Minnesota Timberwolves,New Orleans Pelicans,6000,12.71,10.83,,0,0,,19032025
+7022844,PF,Jeremiah Robinson-Earl,New Orleans Pelicans,Minnesota Timberwolves,6000,14.44,17.58,,13.75,0,,19032025
+7022844,C,Jeremiah Robinson-Earl,New Orleans Pelicans,Minnesota Timberwolves,6000,14.44,17.58,,13.75,0,,19032025
+7022845,SF,Aaron Wiggins,Oklahoma City Thunder,Philadelphia 76ers,11750,21.19,15.25,IN STARTING LINEUP,41.5,16,,19032025
+7022847,PG,Jared Butler,Philadelphia 76ers,Oklahoma City Thunder,14820,15.68,29,IN STARTING LINEUP,18,0,,19032025
+7022853,PG,Josh Giddey,Chicago Bulls,Phoenix Suns,19540,37.07,53.75,,47.75,1,,19032025
+7022855,C,Alperen Sengun,Houston Rockets,Orlando Magic,16550,42.1,44.58,IN STARTING LINEUP,43.5,3,,19032025
+7022856,SG,Jalen Green,Houston Rockets,Orlando Magic,17530,34.94,53,IN STARTING LINEUP,37.75,1,,19032025
+7022858,SG,Austin Reaves,Los Angeles Lakers,Denver Nuggets,18490,37.44,49.67,IN STARTING LINEUP,46.75,4,,19032025
+7022858,PG,Austin Reaves,Los Angeles Lakers,Denver Nuggets,18490,37.44,49.67,IN STARTING LINEUP,46.75,4,,19032025
+7022859,C,Jock Landale,Houston Rockets,Orlando Magic,6000,9.8,11.58,,0,0,,19032025
+7022862,PF,Terry Taylor,Sacramento Kings,Cleveland Cavaliers,6000,0,0,,0,0,,19032025
+7022863,PG,Jose Alvarado,New Orleans Pelicans,Minnesota Timberwolves,10830,23.03,17.08,IN STARTING LINEUP,20.75,3,,19032025
+7022865,SF,Justin Champagnie,Washington Wizards,Utah Jazz,9220,18.86,31.75,,0,41,,19032025
+7022865,PF,Justin Champagnie,Washington Wizards,Utah Jazz,9220,18.86,31.75,,0,41,,19032025
+7022873,SG,Mac McClung,Orlando Magic,Houston Rockets,6000,4.75,4.75,,0,0,,19032025
+7022874,C,Jay Huff,Memphis Grizzlies,Portland Trail Blazers,6000,12.94,6.83,,20.75,0,,19032025
+7022881,PG,Jordan Goodwin,Los Angeles Lakers,Denver Nuggets,10470,18.02,23,IN STARTING LINEUP,23.75,4,,19032025
+7022881,SG,Jordan Goodwin,Los Angeles Lakers,Denver Nuggets,10470,18.02,23,IN STARTING LINEUP,23.75,4,,19032025
+7022896,C,Micah Potter,Utah Jazz,Washington Wizards,6330,12.04,11.92,,6.75,4,,19032025
+7022896,PF,Micah Potter,Utah Jazz,Washington Wizards,6330,12.04,11.92,,6.75,4,,19032025
+7022946,PF,Lindy Waters,Detroit Pistons,Miami Heat,6000,11.07,8.67,,0,0,,19032025
+7022948,PG,Scoot Henderson,Portland Trail Blazers,Memphis Grizzlies,11550,26.36,26.25,,15.25,1,,19032025
+7022949,SG,Jaden Hardy,Dallas Mavericks,Indiana Pacers,6000,13.1,13.92,,30,44,,19032025
+7022949,PG,Jaden Hardy,Dallas Mavericks,Indiana Pacers,6000,13.1,13.92,,30,44,,19032025
+7022961,PG,Scotty Pippen,Memphis Grizzlies,Portland Trail Blazers,10800,22.81,34.42,,35.5,2,,19032025
+7022963,PG,Collin Gillespie,Phoenix Suns,Chicago Bulls,6290,8.19,13.17,IN STARTING LINEUP,22.75,5,,19032025
+7022965,SG,Johnny Juzang,Utah Jazz,Washington Wizards,6460,14.82,19.42,,20,0,,19032025
+7022965,SF,Johnny Juzang,Utah Jazz,Washington Wizards,6460,14.82,19.42,,20,0,,19032025
+7022970,SG,Keon Ellis,Sacramento Kings,Cleveland Cavaliers,7360,18.35,17.25,IN STARTING LINEUP,24,36,,19032025
+7022970,PG,Keon Ellis,Sacramento Kings,Cleveland Cavaliers,7360,18.35,17.25,IN STARTING LINEUP,24,36,,19032025
+7022976,C,Christian Koloko,Los Angeles Lakers,Denver Nuggets,6000,7.04,7.83,,8.5,0,,19032025
+7022982,SG,Andrew Nembhard,Indiana Pacers,Dallas Mavericks,9610,24.48,25.17,IN STARTING LINEUP,39.75,25,,19032025
+7022982,PG,Andrew Nembhard,Indiana Pacers,Dallas Mavericks,9610,24.48,25.17,IN STARTING LINEUP,39.75,25,,19032025
+7022984,SF,Bennedict Mathurin,Indiana Pacers,Dallas Mavericks,10340,27.34,24.92,IN STARTING LINEUP,35.25,7,,19032025
+7022985,C,Jalen Duren,Detroit Pistons,Miami Heat,12570,31.7,28.67,IN STARTING LINEUP,31.75,1,,19032025
+7022989,SF,Dalen Terry,Chicago Bulls,Phoenix Suns,6000,9.09,16.17,,5.5,0,,19032025
+7022996,PF,Keegan Murray,Sacramento Kings,Cleveland Cavaliers,10640,27.01,30,IN STARTING LINEUP,23.5,6,,19032025
+7022997,SG,Max Christie,Dallas Mavericks,Indiana Pacers,9930,19.04,20.17,,30,1,,19032025
+7022997,SF,Max Christie,Dallas Mavericks,Indiana Pacers,9930,19.04,20.17,,30,1,,19032025
+7022998,SG,Vince Williams,Memphis Grizzlies,Portland Trail Blazers,7160,15.72,10.75,,13,1,,19032025
+7022998,SF,Vince Williams,Memphis Grizzlies,Portland Trail Blazers,7160,15.72,10.75,,13,1,,19032025
+7023004,PF,Karlo Matkovic,New Orleans Pelicans,Minnesota Timberwolves,9370,16.11,21.5,,10.75,0,,19032025
+7023004,C,Karlo Matkovic,New Orleans Pelicans,Minnesota Timberwolves,9370,16.11,21.5,,10.75,0,,19032025
+7023005,PF,Jabari Smith,Houston Rockets,Orlando Magic,11610,25.03,34.92,,27.25,0,,19032025
+7023005,C,Jabari Smith,Houston Rockets,Orlando Magic,11610,25.03,34.92,,27.25,0,,19032025
+7023006,PG,TyTy Washington,Phoenix Suns,Chicago Bulls,6000,5.77,2.67,,0,0,,19032025
+7023007,PF,Tari Eason,Houston Rockets,Orlando Magic,12650,27.98,40.67,IN STARTING LINEUP,45.25,11,,19032025
+7023008,PG,Blake Wesley,San Antonio Spurs,New York Knicks,6580,7.47,16.33,,18.5,0,,19032025
+7023009,PF,Jeremy Sochan,San Antonio Spurs,New York Knicks,11230,25.91,25,IN STARTING LINEUP,23,0,,19032025
+7023011,SG,Bryce McGowens,Portland Trail Blazers,Memphis Grizzlies,6000,2.98,0.42,,0.75,0,,19032025
+7023013,PF,Paolo Banchero,Orlando Magic,Houston Rockets,19000,44.18,61,IN STARTING LINEUP,48.5,5,,19032025
+7023014,SF,Caleb Houstan,Orlando Magic,Houston Rockets,6000,6.04,13.17,,0,0,,19032025
+7023014,PF,Caleb Houstan,Orlando Magic,Houston Rockets,6000,6.04,13.17,,0,0,,19032025
+7023016,SF,Peyton Watson,Denver Nuggets,Los Angeles Lakers,6870,18.08,19.75,IN STARTING LINEUP,18.5,4,,19032025
+7023017,SG,Christian Braun,Denver Nuggets,Los Angeles Lakers,11130,28.5,24.83,IN STARTING LINEUP,18.5,0,,19032025
+7023017,SF,Christian Braun,Denver Nuggets,Los Angeles Lakers,11130,28.5,24.83,IN STARTING LINEUP,18.5,0,,19032025
+7023018,C,Jaylin Williams,Oklahoma City Thunder,Philadelphia 76ers,8730,17.72,8.5,IN STARTING LINEUP,63.75,20,,19032025
+7023021,C,Chet Holmgren,Oklahoma City Thunder,Philadelphia 76ers,18130,35.52,32.58,IN STARTING LINEUP,32.25,4,,19032025
+7023021,PF,Chet Holmgren,Oklahoma City Thunder,Philadelphia 76ers,18130,35.52,32.58,IN STARTING LINEUP,32.25,4,,19032025
+7023023,C,Walker Kessler,Utah Jazz,Washington Wizards,15250,35.6,39.42,IN STARTING LINEUP,20.75,2,,19032025
+7023024,SF,Josh Minott,Minnesota Timberwolves,New Orleans Pelicans,6000,5.55,7.25,,0,0,,19032025
+7023024,SG,Josh Minott,Minnesota Timberwolves,New Orleans Pelicans,6000,5.55,7.25,,0,0,,19032025
+7023026,SG,Shaedon Sharpe,Portland Trail Blazers,Memphis Grizzlies,10830,28.5,29.33,IN STARTING LINEUP,35.75,22,,19032025
+7023026,SF,Shaedon Sharpe,Portland Trail Blazers,Memphis Grizzlies,10830,28.5,29.33,IN STARTING LINEUP,35.75,22,,19032025
+7023033,SF,Julian Champagnie,San Antonio Spurs,New York Knicks,8950,19.31,23.25,,15,0,,19032025
+7023036,PF,Simone Fontecchio,Detroit Pistons,Miami Heat,6000,12.83,20.25,,4.5,0,,19032025
+7023060,PG,Quenton Jackson,Indiana Pacers,Dallas Mavericks,6000,11.77,13.25,,0,0,,19032025
+7023060,SG,Quenton Jackson,Indiana Pacers,Dallas Mavericks,6000,11.77,13.25,,0,0,,19032025
+7023080,SG,Nate Williams,Houston Rockets,Orlando Magic,6000,5.05,0.75,,0,0,,19032025
+7023080,SF,Nate Williams,Houston Rockets,Orlando Magic,6000,5.05,0.75,,0,0,,19032025
+7023097,SF,Justin Minaya,Portland Trail Blazers,Memphis Grizzlies,6000,1.09,0,,1.25,0,,19032025
+7023102,SF,Ausar Thompson,Detroit Pistons,Miami Heat,8820,22.64,19.17,IN STARTING LINEUP,27.5,5,,19032025
+7023102,PF,Ausar Thompson,Detroit Pistons,Miami Heat,8820,22.64,19.17,IN STARTING LINEUP,27.5,5,,19032025
+7023103,PG,Marcus Sasser,Detroit Pistons,Miami Heat,6000,11.73,6.83,,0,0,,19032025
+7023103,SG,Marcus Sasser,Detroit Pistons,Miami Heat,6000,11.73,6.83,,0,0,,19032025
+7023104,SG,Ben Sheppard,Indiana Pacers,Dallas Mavericks,6000,13.31,13.33,,16,0,,19032025
+7023105,PF,Jarace Walker,Indiana Pacers,Dallas Mavericks,6000,13.33,13.33,,4.75,0,,19032025
+7023105,SF,Jarace Walker,Indiana Pacers,Dallas Mavericks,6000,13.33,13.33,,4.75,0,,19032025
+7023109,SF,Jaime Jaquez,Miami Heat,Detroit Pistons,9880,20.07,27.42,IN STARTING LINEUP,17,17,,19032025
+7023109,SG,Jaime Jaquez,Miami Heat,Detroit Pistons,9880,20.07,27.42,IN STARTING LINEUP,17,17,,19032025
+7023110,PG,Anthony Black,Orlando Magic,Houston Rockets,7380,19.43,19,,19,0,,19032025
+7023111,SF,Jett Howard,Orlando Magic,Houston Rockets,6000,7.78,2.25,,0,0,,19032025
+7023111,PF,Jett Howard,Orlando Magic,Houston Rockets,6000,7.78,2.25,,0,0,,19032025
+7023115,SG,Jalen Hood-Schifino,Philadelphia 76ers,Oklahoma City Thunder,9720,14.4,21.25,,16.75,1,,19032025
+7023118,SF,Cam Whitmore,Houston Rockets,Orlando Magic,6130,16.13,5.67,,0,0,,19032025
+7023118,SG,Cam Whitmore,Houston Rockets,Orlando Magic,6130,16.13,5.67,,0,0,,19032025
+7023120,SG,Jordan Hawkins,New Orleans Pelicans,Minnesota Timberwolves,8530,18.03,10.25,,26.5,0,,19032025
+7023124,SF,Kris Murray,Portland Trail Blazers,Memphis Grizzlies,6000,9.89,19.75,,6,1,,19032025
+7023124,PF,Kris Murray,Portland Trail Blazers,Memphis Grizzlies,6000,9.89,19.75,,6,1,,19032025
+7023126,PG,Keyonte George,Utah Jazz,Washington Wizards,12130,30.95,35.17,,31.5,1,,19032025
+7023127,SF,Brice Sensabaugh,Utah Jazz,Washington Wizards,9280,17.03,19.17,,20,0,,19032025
+7023127,PF,Brice Sensabaugh,Utah Jazz,Washington Wizards,9280,17.03,19.17,,20,0,,19032025
+7023131,PF,Julian Phillips,Chicago Bulls,Phoenix Suns,6000,9.63,13,,11.5,0,,19032025
+7023141,C,Tristan Vukcevic,Washington Wizards,Utah Jazz,12710,13.34,30.67,IN STARTING LINEUP,27.75,0,,19032025
+7023145,SF,Colby Jones,Washington Wizards,Utah Jazz,7330,3.95,7.92,,41,1,,19032025
+7023148,PF,Toumani Camara,Portland Trail Blazers,Memphis Grizzlies,10450,25.63,29.75,IN STARTING LINEUP,23,4,,19032025
+7023148,SF,Toumani Camara,Portland Trail Blazers,Memphis Grizzlies,10450,25.63,29.75,IN STARTING LINEUP,23,4,,19032025
+7023151,PF,Hunter Tyson,Denver Nuggets,Los Angeles Lakers,6000,5.43,12.08,,8.25,0,,19032025
+7023151,SF,Hunter Tyson,Denver Nuggets,Los Angeles Lakers,6000,5.43,12.08,,8.25,0,,19032025
+7023152,SG,Jalen Pickett,Denver Nuggets,Los Angeles Lakers,6000,8.18,4.67,,32.5,0,,19032025
+7023152,PG,Jalen Pickett,Denver Nuggets,Los Angeles Lakers,6000,8.18,4.67,,32.5,0,,19032025
+7023154,SG,Jaylen Clark,Minnesota Timberwolves,New Orleans Pelicans,6000,9.32,12.58,,14,0,,19032025
+7023154,SF,Jaylen Clark,Minnesota Timberwolves,New Orleans Pelicans,6000,9.32,12.58,,14,0,,19032025
+7023156,SG,Rayan Rupert,Portland Trail Blazers,Memphis Grizzlies,6000,4.61,-0.17,,0,0,,19032025
+7023156,SF,Rayan Rupert,Portland Trail Blazers,Memphis Grizzlies,6000,4.61,-0.17,,0,0,,19032025
+7023157,SF,Jaylen Martin,Washington Wizards,Utah Jazz,11070,5.89,11.75,,20.25,0,,19032025
+7023160,SF,Ricky Council,Philadelphia 76ers,Oklahoma City Thunder,8850,12.81,23.58,,12.5,11,,19032025
+7023160,PF,Ricky Council,Philadelphia 76ers,Oklahoma City Thunder,8850,12.81,23.58,,12.5,11,,19032025
+7023162,C,Oscar Tshiebwe,Utah Jazz,Washington Wizards,6570,17.29,21.75,,19,0,,19032025
+7023171,PG,Vasilije Micic,Phoenix Suns,Chicago Bulls,6160,15.47,9.42,,0,0,,19032025
+7023173,PG,Craig Porter,Cleveland Cavaliers,Sacramento Kings,6000,7.37,6.5,,1,0,,19032025
+7023187,C,Duop Reath,Portland Trail Blazers,Memphis Grizzlies,7190,7.64,21.75,,27.25,1,,19032025
+7023227,PG,Adam Flagler,Oklahoma City Thunder,Philadelphia 76ers,6000,2.37,0.83,,21.5,0,,19032025
+7023238,SF,Ron Holland,Detroit Pistons,Miami Heat,6000,12.13,14.75,,11.25,0,,19032025
+7023240,PF,Matas Buzelis,Chicago Bulls,Phoenix Suns,8180,14.86,21.17,IN STARTING LINEUP,8,7,,19032025
+7023246,SF,Dalton Knecht,Los Angeles Lakers,Denver Nuggets,8570,15.99,16.17,,18.75,1,,19032025
+7023246,SG,Dalton Knecht,Los Angeles Lakers,Denver Nuggets,8570,15.99,16.17,,18.75,1,,19032025
+7023247,C,Yves Missi,New Orleans Pelicans,Minnesota Timberwolves,9220,24.27,25.58,IN STARTING LINEUP,30.75,1,,19032025
+7023249,PG,Devin Carter,Sacramento Kings,Cleveland Cavaliers,6000,10.54,16.25,,33.25,0,,19032025
+7023249,SG,Devin Carter,Sacramento Kings,Cleveland Cavaliers,6000,10.54,16.25,,33.25,0,,19032025
+7023250,SG,Jaylon Tyson,Cleveland Cavaliers,Sacramento Kings,6000,7.19,1.58,,0,0,,19032025
+7023250,SF,Jaylon Tyson,Cleveland Cavaliers,Sacramento Kings,6000,7.19,1.58,,0,0,,19032025
+7023251,C,Kel'el Ware,Miami Heat,Detroit Pistons,8620,21.59,24.5,IN STARTING LINEUP,37,2,,19032025
+7023254,SF,Tristan da Silva,Orlando Magic,Houston Rockets,6000,15.44,7.5,,7.5,0,,19032025
+7023254,PF,Tristan da Silva,Orlando Magic,Houston Rockets,6000,15.44,7.5,,7.5,0,,19032025
+7023255,SF,Ryan Dunn,Phoenix Suns,Chicago Bulls,7640,13.42,30.67,IN STARTING LINEUP,27.25,33,,19032025
+7023255,SG,Ryan Dunn,Phoenix Suns,Chicago Bulls,7640,13.42,30.67,IN STARTING LINEUP,27.25,33,,19032025
+7023256,SG,Terrence Shannon,Minnesota Timberwolves,New Orleans Pelicans,6000,9.39,5.5,,0,0,,19032025
+7023256,SF,Terrence Shannon,Minnesota Timberwolves,New Orleans Pelicans,6000,9.39,5.5,,0,0,,19032025
+7023257,PG,Rob Dillingham,Minnesota Timberwolves,New Orleans Pelicans,6000,10.49,1.92,,0,0,,19032025
+7023259,PF,Dillon Jones,Oklahoma City Thunder,Philadelphia 76ers,6000,6.45,2.17,IN STARTING LINEUP,28.75,3,,19032025
+7023262,PG,Carlton Carrington,Washington Wizards,Utah Jazz,8960,22.17,23,IN STARTING LINEUP,21.75,6,,19032025
+7023264,C,Zach Edey,Memphis Grizzlies,Portland Trail Blazers,9390,22.76,22.92,IN STARTING LINEUP,11.75,2,,19032025
+7023265,PG,Stephon Castle,San Antonio Spurs,New York Knicks,12330,24.67,34,IN STARTING LINEUP,33.75,8,,19032025
+7023265,SG,Stephon Castle,San Antonio Spurs,New York Knicks,12330,24.67,34,IN STARTING LINEUP,33.75,8,,19032025
+7023266,C,Donovan Clingan,Portland Trail Blazers,Memphis Grizzlies,12570,20.61,30.25,IN STARTING LINEUP,26.75,2,,19032025
+7023267,PG,Isaiah Collier,Utah Jazz,Washington Wizards,10420,22.25,29.25,IN STARTING LINEUP,37.25,3,,19032025
+7023268,SF,Cody Williams,Utah Jazz,Washington Wizards,6490,11,8.83,IN STARTING LINEUP,6.25,1,,19032025
+7023275,C,Alex Sarr,Washington Wizards,Utah Jazz,14200,28.55,42.92,IN STARTING LINEUP,41.25,4,,19032025
+7023276,SG,AJ Johnson,Washington Wizards,Utah Jazz,12020,8.73,19.83,IN STARTING LINEUP,26.25,0,,19032025
+7023276,PG,AJ Johnson,Washington Wizards,Utah Jazz,12020,8.73,19.83,IN STARTING LINEUP,26.25,0,,19032025
+7023278,SG,Pelle Larsson,Miami Heat,Detroit Pistons,6000,8.29,6.25,,1.5,0,,19032025
+7023278,SF,Pelle Larsson,Miami Heat,Detroit Pistons,6000,8.29,6.25,,1.5,0,,19032025
+7023283,SG,Bronny James,Los Angeles Lakers,Denver Nuggets,6000,3.38,4.5,,0,0,,19032025
+7023283,PG,Bronny James,Los Angeles Lakers,Denver Nuggets,6000,3.38,4.5,,0,0,,19032025
+7023285,PF,Isaac Jones,Sacramento Kings,Cleveland Cavaliers,6000,6.63,3.08,,2.75,0,,19032025
+7023285,C,Isaac Jones,Sacramento Kings,Cleveland Cavaliers,6000,6.63,3.08,,2.75,0,,19032025
+7023286,SF,Justin Edwards,Philadelphia 76ers,Oklahoma City Thunder,9040,17.22,21.5,IN STARTING LINEUP,31,4,,19032025
+7023286,PF,Justin Edwards,Philadelphia 76ers,Oklahoma City Thunder,9040,17.22,21.5,IN STARTING LINEUP,31,4,,19032025
+7023290,SF,Anton Watson,New York Knicks,San Antonio Spurs,6000,1.5,1.5,,0,0,,19032025
+7023293,PG,Tyler Kolek,New York Knicks,San Antonio Spurs,6000,4.02,2.33,,3.5,0,,19032025
+7023296,SG,Antonio Reeves,New Orleans Pelicans,Minnesota Timberwolves,6000,7.66,4.83,,0,0,,19032025
+7023296,PG,Antonio Reeves,New Orleans Pelicans,Minnesota Timberwolves,6000,7.66,4.83,,0,0,,19032025
+7023297,SG,Johnny Furphy,Indiana Pacers,Dallas Mavericks,6000,4.54,7.33,,0,0,,19032025
+7023297,SF,Johnny Furphy,Indiana Pacers,Dallas Mavericks,6000,4.54,7.33,,0,0,,19032025
+7023299,PF,Enrique Freeman,Indiana Pacers,Dallas Mavericks,6000,3.79,5.58,,0,0,,19032025
+7023299,C,Enrique Freeman,Indiana Pacers,Dallas Mavericks,6000,3.79,5.58,,0,0,,19032025
+7023304,PF,Oso Ighodaro,Phoenix Suns,Chicago Bulls,8400,10.76,22.17,,15.5,1,,19032025
+7023304,C,Oso Ighodaro,Phoenix Suns,Chicago Bulls,8400,10.76,22.17,,15.5,1,,19032025
+7023305,C,PJ Hall,Denver Nuggets,Los Angeles Lakers,6000,2.86,3.58,,13.5,0,,19032025
+7023305,PF,PJ Hall,Denver Nuggets,Los Angeles Lakers,6000,2.86,3.58,,13.5,0,,19032025
+7023307,SG,Alex Ducas,Oklahoma City Thunder,Philadelphia 76ers,6000,2.99,-0.17,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,12,0,,19032025
+7023309,C,Branden Carlson,Oklahoma City Thunder,Philadelphia 76ers,6000,6.41,5.92,,35.5,0,,19032025
+7023317,SG,Cam Spencer,Memphis Grizzlies,Portland Trail Blazers,6000,9.88,11.58,,0,0,,19032025
+7023318,SG,Jaylen Wells,Memphis Grizzlies,Portland Trail Blazers,7790,18.64,15.58,IN STARTING LINEUP,3.25,1,,19032025
+7023322,C,Kyle Filipowski,Utah Jazz,Washington Wizards,13370,19.86,27.5,IN STARTING LINEUP,30,0,,19032025
+7023377,SF,Spencer Jones,Denver Nuggets,Los Angeles Lakers,6000,2.47,6.5,,14.25,0,,19032025
+7023377,SG,Spencer Jones,Denver Nuggets,Los Angeles Lakers,6000,2.47,6.5,,14.25,0,,19032025
+7023906,SF,Keion Brooks,New Orleans Pelicans,Minnesota Timberwolves,6000,4.63,4.63,,0,0,,19032025
+7023911,SG,Alex Reese,Philadelphia 76ers,Oklahoma City Thunder,6000,11.53,12,,18.25,0,,19032025
+7023928,PG,Elijah Harkless,Utah Jazz,Washington Wizards,6000,9.43,2.83,PLAYER IS INJURED BUT IS A GAME TIME DECISION TO PLAY,0,0,,19032025
