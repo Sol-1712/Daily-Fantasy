@@ -6,3 +6,16 @@ KEY FEATURES:
 - Opponent lineup simulations
 - Two step seeding and column generation
 - Master LP to create portifolio of optimal lineups
+
+
+
+
+
+
+
+TECH STACK:
+- Python
+- OR-Tools
+- scipy
+- pandas
+- xgboost
